@@ -105,3 +105,4 @@
 .box10 {
     width: 33%;
 }
+@media screen and (max-width:480px){}
